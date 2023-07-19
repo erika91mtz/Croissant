@@ -3,6 +3,24 @@ h2,
 h3 {
   text-align: center;
 }
-.menu-links {
+.container {
+  background: radial-gradient(
+    275px at -14% 125%,
+    rgb(255, 255, 255) 0%,
+    rgb(218, 134, 182) 100.7%
+  );
+}
+.pages {
   text-align: center;
+}
+.menu-links {
+  text-decoration: none;
+  color: black;
+  font-family: cursive;
+}
+.menu-links:hover {
+  color: blue;
+}
+.email-link:hover {
+  color: brown;
 }
