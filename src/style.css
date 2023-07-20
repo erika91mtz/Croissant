@@ -31,3 +31,9 @@ img {
 .location {
   text-align: center;
 }
+.croissantHistory {
+  color: blue;
+}
+.croissantHistory:hover {
+  color: black;
+}
